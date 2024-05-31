@@ -166,6 +166,9 @@ Please adhere to this project's `code of conduct`.
 - [@NupurItIs](https://github.com/NupurItIs)
 
 - [@adi-tya999](https://github.com/adi-tya999)
+- [@vigneshir](https://github.com/vigneshir)
+
+- [@OmkarBoralkar1](https://github.com/OmkarBoralkar1)
 
 
 
